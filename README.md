@@ -1,2 +1,6 @@
-# dio-desafio-repositorio
-Desafio das aulas de Git/GitHub do bootcamp da DIO, criação de um repositório no GitHub.
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto do BootCamp da DIO.
+
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://markdownguide.irg/basyc-syntex/)
